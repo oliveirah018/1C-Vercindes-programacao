@@ -21,3 +21,12 @@ p {
 em strong {
 	color: #FF0000;
 }
+
+.itens{
+	font-style: italic;
+
+}
+.beneficios{
+	background-color:aquamarine;
+text-align: left;
+}
